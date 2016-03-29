@@ -24,7 +24,7 @@
 
 import SQLite
 import CSQLite
-import SQLCipher
+import SQLCipher.sqlite3
 
 extension Connection {
     
