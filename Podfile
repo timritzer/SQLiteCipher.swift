@@ -8,4 +8,4 @@ use_frameworks!
 # 3rd Party Pods
 pod 'SQLCipher'
 # pod 'SQLite.swift', '~> 0.10.1'
-pod 'SQLite.swift', git: "https://github.com/gblotter/SQLite.swift.git"
+pod 'SQLite.swift', git: "https://github.com/timritzer/SQLite.swift"
